@@ -11,4 +11,6 @@ All Icons could be found here in this icons/banner repository.
 
 [2023](https://github.com/Banabyte/Branding/tree/main/2023)
 
+[2024](https://github.com/Banabyte/Branding/tree/main/2024)
+
 ![](/2023/Banner/Untitled-1_Recovered.png)
