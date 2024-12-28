@@ -1,3 +1,4 @@
+![](/2023/Banner/Untitled-1_Recovered.png)
 ## Banabyte Network Branding Repository
 Originally Created by @zeropointbruh
 > Altered Revisions Includes Credits within the respected folders.
@@ -15,4 +16,4 @@ All Icons could be found here in this icons/banner repository.
 
 [2025](https://github.com/Banabyte/Branding/tree/main/2025)
 
-![](/2023/Banner/Untitled-1_Recovered.png)
+
