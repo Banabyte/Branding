@@ -6,14 +6,14 @@ Originally Created by @zeropointbruh
 All Icons could be found here in this icons/banner repository.
 
 ### Select a Destination by Year
-[2021](https://github.com/Banabyte/Branding/tree/main/2021)
+- [2021](https://github.com/Banabyte/Branding/tree/main/2021)
 
-[2022](https://github.com/Banabyte/Branding/tree/main/2022)
+- [2022](https://github.com/Banabyte/Branding/tree/main/2022)
 
-[2023](https://github.com/Banabyte/Branding/tree/main/2023)
+- [2023](https://github.com/Banabyte/Branding/tree/main/2023)
 
-[2024](https://github.com/Banabyte/Branding/tree/main/2024)
+- [2024](https://github.com/Banabyte/Branding/tree/main/2024)
 
-[2025](https://github.com/Banabyte/Branding/tree/main/2025)
+- [2025](https://github.com/Banabyte/Branding/tree/main/2025)
 
 
