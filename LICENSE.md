@@ -1,15 +1,21 @@
-Banabyte LLC Colorado Branding and Logo License
+# Banabyte Brand Asset License
 
-Holders: Banabyte LLC Colorado
+**Copyright (c) 2025 Banabyte LLC**
 
-This license grants limited rights exclusively to Banabyte LLC Colorado ("Licensee") for the use of images, trademarks, and other branding materials owned by Banabyte LLC Colorado ("Materials"). The Licensee may use the Materials for branding, sponsorship, and related purposes, strictly limited to activities involving Banabyte LLC Colorado. Any use beyond this scope requires explicit permission from Banabyte LLC Colorado.
+Permission is hereby granted, free of charge, to any person obtaining a copy of the brand assets contained in this repository ("Assets"), to use the Assets subject to the following conditions:
 
-Modifications or edits of the Materials are prohibited without prior written consent from Banabyte LLC Colorado. Requests for modification permissions should be directed to wegj1@banabyte.com or wegj1@hotmail.com.
+1.  The Assets may be used for journalistic, educational, commentary, or referential purposes relating to Banabyte LLC and its services.
 
-All rights not expressly granted herein are reserved by Banabyte LLC Colorado.
+2.  The Assets shall not be modified in any way, including but not limited to changing colors, proportions, orientation, or any other design aspect.
 
-This license is effective upon receipt and shall remain in effect unless terminated by Banabyte LLC Colorado. Termination may occur if the Licensee breaches any terms of this license.
+3.  The use of the Assets shall not suggest or imply any partnership with, sponsorship by, or endorsement from Banabyte LLC, unless a separate written agreement authorizing such use is in effect.
 
-For questions or further information regarding this license, please contact wegj1@banabyte.com.
+4.  The Assets shall not be used as the primary or most prominent feature of any third-party product, service, or brand.
 
-[Copyright © [2024] Banabyte LLC Colorado. All rights reserved.]
+5.  The name "Banabyte" or any name confusingly similar shall not be used in any third-party company name, application name, product name, service name, or domain name.
+
+6.  The Assets shall not be used in connection with any content or activity that is unlawful, defamatory, misleading, or that otherwise violates the rights of others or harms the reputation of Banabyte LLC.
+
+THE ASSETS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL BANABYTE LLC BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE ASSETS OR THE USE OR OTHER DEALINGS IN THE ASSETS.
+
+Banabyte LLC retains all right, title, and interest in and to the Assets. All rights not expressly granted herein are reserved. Banabyte LLC reserves the right to revoke this license at any time and for any reason at its sole discretion.
