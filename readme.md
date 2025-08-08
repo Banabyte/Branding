@@ -1,19 +1,52 @@
-![](/2023/Banner/Untitled-1_Recovered.png)
-## Banabyte Network Branding Repository
-Originally Created by @zeropointbruh
-> Altered Revisions Includes Credits within the respected folders.
+<img src="/2023/Banner/Untitled-1_Recovered.png" alt="Banabyte Banner" width="500"/>
 
-All Icons could be found here in this icons/banner repository.
+# Banabyte Brand Assets
 
-### Select a Destination by Year
-- [2021](https://github.com/Banabyte/Branding/tree/main/2021)
+Welcome to the official brand asset repository for Banabyte LLC. This repository contains our logos, icons, banners, and other branding materials. We're excited to have you represent our brand, and we've created these resources to make it easy for you to use our branding correctly.
 
-- [2022](https://github.com/Banabyte/Branding/tree/main/2022)
+---
 
-- [2023](https://github.com/Banabyte/Branding/tree/main/2023)
+## Usage Guidelines
 
-- [2024](https://github.com/Banabyte/Branding/tree/main/2024)
+Before using any assets from this repository, you must read and agree to our official license. All assets are provided under the terms outlined in the license file.
 
-- [2025](https://github.com/Banabyte/Branding/tree/main/2025)
+**➡️ [View the Banabyte Brand Asset License](LICENSE.md)**
 
+#### **Quick Summary (TL;DR):**
+* **✔️ Do:** Use our assets for journalistic, educational, or commentary purposes.
+* **✔️ Do:** Keep the original colors, proportions, and orientation of all assets.
+* **❌ Don't:** Modify the assets in any way.
+* **❌ Don't:** Use our assets to imply a partnership or endorsement unless you have a written agreement with us.
+* **❌ Don't:** Use our name or logo as part of your own company, product, or domain name.
 
+---
+
+## What's Inside?
+
+This repository is organized by year and contains various file formats to suit your needs, including:
+* **SVG:** Scalable vector files, ideal for high-resolution printing and design work.
+* **PNG:** Raster files with transparent backgrounds, perfect for web and digital use.
+* **Source Files:** You may also find Adobe Illustrator (`.ai`) or Photoshop (`.psd`) files for certain assets.
+
+---
+
+## Browse the Asset Library
+
+Select a year to browse the assets created or used during that period.
+
+* [**2021 Asset Folder**](https://github.com/Banabyte/Branding/tree/main/2021)
+* [**2022 Asset Folder**](https://github.com/Banabyte/Branding/tree/main/2022)
+* [**2023 Asset Folder**](https://github.com/Banabyte/Branding/tree/main/2023)
+* [**2024 Asset Folder**](https://github.com/Banabyte/Branding/tree/main/2024)
+* [**2025 Asset Folder**](https://github.com/Banabyte/Branding/tree/main/2025)
+
+---
+
+## Credits & Contributions
+
+* The foundational structure and many original assets in this repository were created by **@zeropointbruh**.
+* Credits for specific revisions or new assets created by other contributors can be found in the `README.md` files within the respective folders.
+
+## Questions?
+
+If your intended use falls outside our guidelines or you require special permission, please contact us at **wegj1@banabyte.com**.
