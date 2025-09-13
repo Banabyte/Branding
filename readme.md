@@ -45,7 +45,7 @@ Select a year to browse the assets created or used during that period.
 ## Credits & Contributions
 
 * The foundational structure and many original assets in this repository were created by **@zeropointbruh**.
-* Credits for specific revisions or new assets created by other contributors can be found in the `README.md` files within the respective folders.
+* Credits for specific revisions or new assets created by other contributors can be found in the `CREDITS.md` files within the respective folders.
 
 ## Questions?
 
