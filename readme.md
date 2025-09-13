@@ -1,5 +1,3 @@
-<img src="/2023/Banner/Untitled-1_Recovered.png" alt="Banabyte Banner" width="500"/>
-
 # Banabyte Brand Assets
 
 Welcome to the official brand asset repository for Banabyte LLC. This repository contains our logos, icons, banners, and other branding materials. We're excited to have you represent our brand, and we've created these resources to make it easy for you to use our branding correctly.
