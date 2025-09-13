@@ -1,11 +1,9 @@
-Original Icon Created by: zeropoint
+Original Concept Created by: zeropoint
 Discord ID: 621645567478464514
 Discord Tag: @zeropointbruh
 
-Altered Concept By: Mumbo
-Discord ID: 245353411489431565
-Discord Tag: @mumboi
+Reimagaged Concept by: This user no longer exsists online
 
-Altered Concept By: ADRetro
-Discord ID: 1119184758430257176
-Discord Tag: @adretro
+Commissioned to: Byte
+Discord ID: 747540410855063555
+Discord Tag: @allbyte.design

@@ -1,3 +1,3 @@
-Originally Created by: zeropoint
+Concept Created by: zeropoint
 Discord ID: 621645567478464514
 Discord Tag: @zeropointbruh
